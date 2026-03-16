@@ -59,6 +59,48 @@
   - `宣伝じゃなくて、FPS好きとして率直にどう思うか聞きたいです`
 - 依頼より `感想募集` の方が入りやすい
 
+#### いまDMする候補
+- `@Yowamuvlrt`
+  - https://x.com/Yowamuvlrt
+- `@Satoru_vlrt`
+  - https://x.com/Satoru_vlrt
+- `@Kai_Ubi`
+  - https://x.com/Kai_Ubi
+- `@lazvell`
+  - https://x.com/lazvell
+- `@SugarZ3roVL`
+  - https://x.com/SugarZ3roVL
+- `@meiyfps`
+  - https://x.com/meiyfps
+- `@tenhakyou`
+  - https://x.com/tenhakyou
+- `@R_7qq`
+  - https://x.com/R_7qq
+- `@Sizukubs`
+  - https://x.com/Sizukubs
+- `@ThisIshatty`
+  - https://x.com/ThisIshatty
+- `@SyouTa_fps`
+  - https://x.com/SyouTa_fps
+- `@CaedyeuS`
+  - https://x.com/CaedyeuS
+- `@Reoee`
+  - https://x.com/Reoee
+- `@ibaraki_Ninja`
+  - https://x.com/ibaraki_Ninja
+- `@oniyanogame`
+  - https://x.com/oniyanogame
+- `@VALORANT4JP`
+  - https://x.com/VALORANT4JP
+- `@ValorantLab_JPN`
+  - https://x.com/ValorantLab_JPN
+- `@valesports_jp`
+  - https://x.com/valesports_jp
+- `@VARREL_VALORANT`
+  - https://x.com/VARREL_VALORANT
+- `@RC_REJECT`
+  - https://x.com/RC_REJECT
+
 ### 6. 自分のプレイ体験や観戦体験を短く投稿する
 - 内容例:
   - `自分はエイムで勝てないけど、作戦考えるのは好き`
@@ -112,6 +154,70 @@
   - `体育館探しが少し楽になるかもと思って作りました`
   - `必要なら見てください`
 - AIの大規模営業ではなく、人間が文脈を読んで送るタスク
+
+#### いまDMする候補
+- 2026-03-15 時点で、`2026年以降の投稿` が検索で確認できたアカウントだけに絞った
+- 並び順は `最終確認投稿が新しい順`
+- `@nucb_basketball`
+  - https://x.com/nucb_basketball
+  - 最終確認投稿: `2026-03-14`
+- `@oiuwbbc`
+  - https://x.com/oiuwbbc
+  - 最終確認投稿: `2026-03-14`
+- `@toyo_basketball`
+  - https://x.com/toyo_basketball
+  - 最終確認投稿: `2026-03-14`
+- `@U12Kba`
+  - https://x.com/U12Kba
+  - 最終確認投稿: `2026-03-14`
+- `@DREAM_TIMES_`
+  - https://x.com/DREAM_TIMES_
+  - 最終確認投稿: `2026-03-13`
+- `@wsb_basketball`
+  - https://x.com/wsb_basketball
+  - 最終確認投稿: `2026-03-13`
+- `@chuo_basket15`
+  - https://x.com/chuo_basket15
+  - 最終確認投稿: `2026-03-13`
+- `@wolfpack1963_`
+  - https://x.com/wolfpack1963_
+  - 最終確認投稿: `2026-03-13`
+- `@Nias_badminton`
+  - https://x.com/Nias_badminton
+  - 最終確認投稿: `2026-03-12`
+- `@kyokyo_bad`
+  - https://x.com/kyokyo_bad
+  - 最終確認投稿: `2026-03-11`
+- `@matsubbc`
+  - https://x.com/matsubbc
+  - 最終確認投稿: `2026-03-10`
+- `@ku_toybox`
+  - https://x.com/ku_toybox
+  - 最終確認投稿: `2026-03-06`
+- `@chodaibaske2018`
+  - https://x.com/chodaibaske2018
+  - 最終確認投稿: `2026-03-06`
+- `@AnjoGakuenBB`
+  - https://x.com/AnjoGakuenBB
+  - 最終確認投稿: `2026-03-01`
+- `@ibkkensei`
+  - https://x.com/ibkkensei
+  - 最終確認投稿: `2026-02-08`
+- `@shinwabbc`
+  - https://x.com/shinwabbc
+  - 最終確認投稿: `2026-02-03`
+- `@KOSEI______`
+  - https://x.com/KOSEI______
+  - 最終確認投稿: `2026-01-27`
+- `@kubc2025sinkan`
+  - https://x.com/kubc2025sinkan
+  - 最終確認投稿: `2026-01-26`
+- `@kumabadkingdam`
+  - https://x.com/kumabadkingdam
+  - 最終確認投稿: `2026-01-15`
+- `@kamabasketassoc`
+  - https://x.com/kamabasketassoc
+  - 最終確認投稿: `2026-01-02`
 
 ### 14. 自分の住んでいる地域や使ったことある地域で1投稿する
 - 例:
