@@ -36,6 +36,8 @@ Caption:
 ```text
 The best part of tac FPS isn’t aim. Search “gogobombs” on the App Store. #VALORANT #CS2 #strategy #mobilegaming
 ```
+tiktok769再生 good 5
+youtube1405再生good 10
 
 ## 2. Comment Bait Format
 What to learn:
@@ -49,6 +51,8 @@ Caption:
 ```text
 Hit A or B? What are you calling? Search “gogobombs” on the App Store. #VALORANT #CS2 #tacticalfps #mobilegame
 ```
+tiktok 636
+youtube323 good 3
 
 ## 3. Interactive Game-Video Format
 What to learn:
@@ -62,6 +66,8 @@ Caption:
 ```text
 Pick in 3 seconds. Search “gogobombs” on the App Store. #strategygame #tacticalshooter #mobilegaming
 ```
+tiktok 495 good 1
+youtube 1525 good 33
 
 ## 4. IGL Identity Format
 What to learn:
@@ -75,6 +81,8 @@ Caption:
 ```text
 For people who think like an IGL. Search “gogobombs” on the App Store. #VALORANT #IGL #tactics #mobilegame
 ```
+tiktok 386
+youtube417 good 3
 
 ## 5. POV Confession Format
 What to learn:
@@ -89,6 +97,8 @@ Caption:
 Bad aim. Still love the strategy. Search “gogobombs” on the App Store. #VALORANT #CS2 #strategygame #mobilegame
 ```
 
+tiktok 324 good1
+youtube 99
 ## 6. Share-To-Duo Format
 What to learn:
 - Does share bait outperform comment bait?
